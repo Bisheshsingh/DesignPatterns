@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e39a9d7-d2de-48d8-86f1-bbf5d21db9c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/design/patterns/AbstractFactory/Activity/ComputerFactoryProducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/design/patterns/AbstractFactory/Activity/GamingComputerFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/design/patterns/AbstractFactory/Activity/OfficeComputerFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/design/patterns/AbstractFactory/Activity/ServerComputerFactoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Activity/ComputerFactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Activity/ComputerFactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Constants/AbstractFactoryModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/Modules/AbstractFactoryModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Models/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Models/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/AbstractFactory/Models/GuiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/Tools/GuiceConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +37,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -73,24 +64,31 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "mainline",
+    "git-widget-placeholder": "development",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/DesignPatterns/src/main/java/org/design/patterns/AbstractFactory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.design.patterns.Builder.Models" />
       <recent name="org.design.patterns.AbstractFactory.Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\DesignPatterns\src\main\java\org\design\patterns\AbstractFactory" />
+      <recent name="C:\Users\user\IdeaProjects\DesignPatterns\src\main\java\org\design\patterns" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.design.patterns.Builder.Activity" />
       <recent name="org.design.patterns.AbstractFactory.Activity" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -153,7 +151,9 @@
       <workItem from="1695821179682" duration="12473000" />
       <workItem from="1695880496633" duration="2355000" />
       <workItem from="1695882951008" duration="155000" />
-      <workItem from="1695883162170" duration="2648000" />
+      <workItem from="1695883162170" duration="3185000" />
+      <workItem from="1695888484595" duration="1981000" />
+      <workItem from="1695907082466" duration="5686000" />
     </task>
     <servers />
   </component>
