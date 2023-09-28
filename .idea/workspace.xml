@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e39a9d7-d2de-48d8-86f1-bbf5d21db9c8" name="Changes" comment="">
+    <list default="true" id="5e39a9d7-d2de-48d8-86f1-bbf5d21db9c8" name="Changes" comment="Adding extras">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.design.patterns.Prototype.Activity" />
       <recent name="org.design.patterns.Builder.Activity" />
       <recent name="org.design.patterns.AbstractFactory.Activity" />
     </key>
@@ -153,11 +154,24 @@
       <workItem from="1695882951008" duration="155000" />
       <workItem from="1695883162170" duration="3185000" />
       <workItem from="1695888484595" duration="1981000" />
-      <workItem from="1695907082466" duration="5686000" />
+      <workItem from="1695907082466" duration="7671000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding extras">
+      <option name="closed" value="true" />
+      <created>1695914219144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695914219145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding extras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding extras" />
   </component>
 </project>
