@@ -1,4 +1,4 @@
-package org.design.patterns.AbstractFactory.Constants;
+package org.design.patterns.Modules;
 
 import com.google.inject.AbstractModule;
 import org.design.patterns.AbstractFactory.Activity.CPUFactory;

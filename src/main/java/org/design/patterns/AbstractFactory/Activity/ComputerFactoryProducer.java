@@ -1,7 +1,7 @@
 package org.design.patterns.AbstractFactory.Activity;
 
 import org.design.patterns.AbstractFactory.Constants.FactoryTypes;
-import org.design.patterns.AbstractFactory.Models.GuiceConfig;
+import org.design.patterns.Tools.GuiceConfig;
 import org.design.patterns.AbstractFactory.Models.ComputerAbstractFactory;
 import org.design.patterns.AbstractFactory.Models.FactoryProducer;
 

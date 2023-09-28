@@ -4,7 +4,12 @@ import com.google.inject.Inject;
 import lombok.AllArgsConstructor;
 import org.design.patterns.AbstractFactory.Constants.ComponentTypes.*;
 import org.design.patterns.AbstractFactory.Constants.ComputerTypes;
-import org.design.patterns.AbstractFactory.Models.*;
+import org.design.patterns.AbstractFactory.Models.CPUAbstractFactory;
+import org.design.patterns.AbstractFactory.Models.Computer;
+import org.design.patterns.AbstractFactory.Models.ComputerAbstractFactory;
+import org.design.patterns.AbstractFactory.Models.GPUAbstractFactory;
+import org.design.patterns.AbstractFactory.Models.RAMAbstractFactory;
+import org.design.patterns.AbstractFactory.Models.StorageAbstractFactory;
 
 @AllArgsConstructor(onConstructor = @__(@Inject))
 public class GamingComputerFactory implements ComputerAbstractFactory {

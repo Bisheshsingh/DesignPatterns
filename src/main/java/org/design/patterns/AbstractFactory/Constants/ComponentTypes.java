@@ -1,16 +1,14 @@
 package org.design.patterns.AbstractFactory.Constants;
 
-import java.security.PublicKey;
-
 public class ComponentTypes {
     public enum CPUTypes {
-        M_1_CORE,M_2_CORE,M_4_CORE,
-        L_1_CORE,L_2_CORE,L_4_CORE,
+        M_1_CORE, M_2_CORE, M_4_CORE,
+        L_1_CORE, L_2_CORE, L_4_CORE,
     }
 
     public enum RAMTypes {
         MS1024, MS2048, MS4096,
-        HS8192, HS16384,HS32768;
+        HS8192, HS16384, HS32768;
     }
 
     public enum GPUTypes {
