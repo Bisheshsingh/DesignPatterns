@@ -1,6 +1,6 @@
 package org.design.patterns.Creational.FactoryMethod.Activity;
 
-import com.google.inject.Inject;;
+import com.google.inject.Inject;
 import org.design.patterns.Creational.FactoryMethod.Constants.ComponentTypes.*;
 import org.design.patterns.Creational.FactoryMethod.Constants.ComputerTypes;
 import org.design.patterns.Creational.FactoryMethod.Models.Computer;
