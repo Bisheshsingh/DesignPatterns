@@ -21,4 +21,4 @@ jobs:
           distribution: 'temurin'
           
       - name: Build
-        run: gradle clean build
+        run: gradle clean build -i
